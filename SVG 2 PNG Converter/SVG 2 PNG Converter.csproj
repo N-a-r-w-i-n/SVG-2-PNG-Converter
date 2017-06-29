@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>1498690613_Filetype-png-icon.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="Svg">
       <HintPath>..\..\..\..\..\Desktop\SVG-master\SVG-master\Source\obj\Debug\Svg.dll</HintPath>
@@ -84,6 +87,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="1498690613_Filetype-png-icon.ico" />
     <Content Include="3rd Party\Svg.dll" />
     <None Include="Resources\Gnome-View-Sort-Descending-32.png" />
     <None Include="Resources\Gnome-Emblem-Unreadable-32.png" />
